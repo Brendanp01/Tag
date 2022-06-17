@@ -1,0 +1,9 @@
+/home/brendan/Tag/.mono/temp/bin/ExportDebug/Tag.dll
+/home/brendan/Tag/.mono/temp/bin/ExportDebug/Tag.pdb
+/home/brendan/Tag/.mono/temp/obj/ExportDebug/Tag.csproj.AssemblyReference.cache
+/home/brendan/Tag/.mono/temp/obj/ExportDebug/Tag.GeneratedMSBuildEditorConfig.editorconfig
+/home/brendan/Tag/.mono/temp/obj/ExportDebug/Tag.AssemblyInfoInputs.cache
+/home/brendan/Tag/.mono/temp/obj/ExportDebug/Tag.AssemblyInfo.cs
+/home/brendan/Tag/.mono/temp/obj/ExportDebug/Tag.csproj.CoreCompileInputs.cache
+/home/brendan/Tag/.mono/temp/obj/ExportDebug/Tag.dll
+/home/brendan/Tag/.mono/temp/obj/ExportDebug/Tag.pdb

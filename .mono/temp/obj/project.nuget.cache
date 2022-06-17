@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ip/3MMWaLzqVMRvcHaRs89oKhBzA9CiVkZ8kGEXo8xwTiAljy/ybdhFDnhaDGOCJcqMWC1OCQm31PO7iNwDSOQ==",
+  "success": true,
+  "projectFilePath": "/home/brendan/Tag/Tag.csproj",
+  "expectedPackageFiles": [
+    "/home/brendan/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/home/brendan/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
